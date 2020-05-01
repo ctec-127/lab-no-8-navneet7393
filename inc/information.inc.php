@@ -1,4 +1,4 @@
-<div class="container text-black bg-warning">
+<div class="container text-white bg-danger">
 <h3><strong>Information</strong></h3>
 <div class="row">
 <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-6">
