@@ -43,7 +43,7 @@
 		<br>
         <div class="row">
             <div class="col-12">
-            <input type="submit" value="Convert" class="btn btn-success"/>   
+            <input type="submit" value="Convert" class="btn btn-secondary"/>   
             </div>
 		</div>
 ​
