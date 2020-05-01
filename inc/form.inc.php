@@ -1,7 +1,7 @@
 <div class="container">
 <div class="jumbotron ">
     <h1 class="display-3">Temperature Converter</h1>
-    <p class="lead">CTEC 127 - PHP with SQL 1</p>
+    <p class="lead">CTEC 227 - PHP II</p>
     <hr class="my-2">
     <p>Have fun!</p>
 ​
